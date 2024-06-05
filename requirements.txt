@@ -1,0 +1,6 @@
+matplotlib==3.4.2
+numpy==1.23.5
+scipy==1.13.1
+spekpy==2.0.10
+tables==3.9.1
+xcom
